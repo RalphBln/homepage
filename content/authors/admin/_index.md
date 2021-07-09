@@ -28,9 +28,9 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  # - course: MEng in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2009
+  - course: MSc in Computer Science
+    institution: Freie Universität Berlin
+  #  year: 2009
   # - course: BSc in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2008
@@ -52,7 +52,7 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.org/pid/52/8623.html
-- icon: reasearchgate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ralph-Schaefermeier
 - icon: github
@@ -70,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ralph.schafermeier@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
