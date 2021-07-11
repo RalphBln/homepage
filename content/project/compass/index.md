@@ -4,7 +4,7 @@ subtitle: Comprehensive Surgical Landscape Guidance System for Immersive
   Assistance in Minimally-invasive and Microscopic Interventions
 date: 2021-07-09T22:45:34.839Z
 draft: false
-featured: false
+featured: true
 external_link: https://www.iccas.de/projekte/compass/
 links:
   - url: https://www.interaktive-technologien.de/projekte/compass-1

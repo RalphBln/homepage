@@ -1,18 +1,14 @@
 ---
-slides: example
-url_pdf: ""
 title: PanQura
 date: 2021-07-09T22:33:25.300Z
 summary: Using AI-based content curation technologies the PanQura consortium
   will create a technology platform that has information transparency built into
   its very core. For times of crisis – and beyond.
-url_video: ""
 tags:
-  - Deep Learning
+  - information transparency
+  - aspect-oriented analysis
 external_link: https://qurator.ai/panqura/
-url_slides: ""
 subtitle: A Technology Platform for More Information Transparency in Times of Crisis
-links: []
 image:
   caption: ""
   focal_point: ""
