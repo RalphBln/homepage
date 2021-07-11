@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2021-07-11T01:00:12+02:00
+lastmod: 2021-07-11T11:15:42+02:00
 featured: false
 draft: false
 
@@ -28,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-10T23:00:12.317496Z'
+publishDate: '2021-07-11T09:15:42.349492Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 29th International Workshop on Description Logics,
-  Cape Town, South Africa, April 22-25, 2016.*'
+  Cape Town, South Africa, April 22-25, 2016*'
 url_pdf: http://ceur-ws.org/Vol-1577/paper_48.pdf
 ---

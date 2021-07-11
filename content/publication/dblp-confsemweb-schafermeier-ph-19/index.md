@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ontology Design Patterns for Representing Context in Ontologies Using Aspect
+title: Ontology Design Patterns for Representing Context in Ontologies using Aspect
   Orientation
 subtitle: ''
 summary: ''
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-07-11T01:00:13+02:00
+lastmod: 2021-07-11T11:15:41+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-10T23:00:13.021864Z'
+publishDate: '2021-07-11T09:15:41.816234Z'
 publication_types:
 - '1'
 abstract: ''
