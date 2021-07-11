@@ -17,13 +17,13 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: krr
-  icon_pack: custom
-  name: Knowledge Representation and Reasoning
-- description: 100%
   icon: semantic_web
   icon_pack: custom
   name: Semantic Web Technologies
+- description: 100%
+  icon: krr
+  icon_pack: custom
+  name: Knowledge Representation and Reasoning
 - description: 100%
   icon: ontology
   icon_pack: custom
