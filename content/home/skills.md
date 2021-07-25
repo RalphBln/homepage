@@ -28,15 +28,15 @@ feature:
   icon: ontology
   icon_pack: custom
   name: Upper Ontologies
-- description:
+- description: regular practitioner
   icon: yoga
   icon_pack: custom
   name: Yoga
-- description:
+- description: ambitious amateur
   icon: telescope
   icon_pack: custom
   name: Astronomy
-- description:
+- description: AFF student
   icon: skydiving
   icon_pack: custom
   name: Skydiving
