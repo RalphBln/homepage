@@ -36,7 +36,7 @@ feature:
   icon: telescope
   icon_pack: custom
   name: Astronomy
-- description: AFF student
+- description: Free solo student
   icon: skydiving
   icon_pack: custom
   name: Skydiving
