@@ -36,7 +36,7 @@ feature:
   icon: telescope
   icon_pack: custom
   name: Astronomy
-- description: Free solo student
+- description: DFV license holder
   icon: skydiving
   icon_pack: custom
   name: Skydiving
